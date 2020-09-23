@@ -1,0 +1,9 @@
+ÿÀThis is a small little example showing you how to create your own custom menu.
+Menu uses no API code or any ActiveX Controls
+Most items the example uses is one picture box and some labels for menu captions. 
+the rest is all drawn using the line function.
+
+Anyway it still is little buggy but you may get an idea of this for your own project. 
+Or if you want to fix my bugs please feel free to.
+
+Hope you find this code usfull. please Vote
